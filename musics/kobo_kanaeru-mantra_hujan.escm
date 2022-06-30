@@ -1,0 +1,53 @@
+#song_name Mantra Hujan
+#artist Kobo Kaneru
+#recommended_motor_count 4
+
+@+
++track_name High Vocal
++motor_options 1 2 3 4 
++general_length 12
++general_interval 0
++notes [
+    D64 E64 F#64 G62 A64 B64 A62 F#64 E64 D62 P4 E64 F#64 G64 F#64 E64 A51 P4 P8 A64 G64 F#64 E62 D62 D64
+]
+@-
+
+@+
++track_name Low Vocal
++motor_options 3
++general_length 12
++general_interval 0
++notes [
+    D54 E54 F#54 G52 A54 B54 A52 F#54 E54 D52 P4 E54 F#54 G54 F#54 E54 A41 P4 P8 A54 G54 F#54 E52 D52 D54
+]
+@-
+
+@+
++track_name 1st harmony
++motor_options 2
++general_length 12
++general_interval 0
++notes [
+    D42 D44 C#41 C#41 F#41 P4 B42 B44 E41 P4 P8 B41 A41
+]
+@-
+
+@+
++track_name 3rd harmony
++motor_options 4
++general_length 12
++general_interval 0
++notes [
+    B42 B44 A41 A41 D51 P4 G42 G44 C#51 P4 P8 G41 F#41
+]
+@-
+
+@+
++track_name 5th harmony
++motor_option 2
++general_length 12
++general_interval 0
++notes [
+    G42 G44 E41 F#41 B41 P4 E42 E44 A41 P4 P8 D41 D41 
+]
+@-
